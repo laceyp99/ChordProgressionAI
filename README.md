@@ -14,7 +14,7 @@ Before using the script, make sure you have the following:
 1. Clone this repository to your local machine.
    
    ```sh
-   git clone https://github.com/your-username/chord-progression-generator.git
+   git clone https://github.com/laceyp99/ChordProgressionAI.git
 
 2. Navigate to the cloned directory.
    
