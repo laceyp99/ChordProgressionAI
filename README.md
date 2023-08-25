@@ -19,7 +19,7 @@ Before using the script, make sure you have the following:
 2. Navigate to the cloned directory.
    
    ```sh
-   cd chord-progression-generator
+   cd ChordProgressionAI
 
 3. Install the required dependencies using pip.
    
@@ -36,7 +36,7 @@ Before using the script, make sure you have the following:
 2. Run the script in your terminal.
    
    ```sh
-   python chord_progression_generator.py
+   python m21.py
 
 3. Follow the prompts to input the genre, key, BPM, time signature, and bar length for your chord progression.
 
