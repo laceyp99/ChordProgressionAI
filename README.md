@@ -56,4 +56,4 @@ You can also adjust the settings for the OpenAI model by modifying the max_token
 
 ## Note
 
-Please keep in mind that this script uses an external API (OpenAI's GPT-3.5) to generate chord progressions. The quality and style of the generated progressions may vary based on the training data and input provided. The temperature of the model is also important to monitor. The higher to 1 the temperature gets, the less consistent formatted responses are given. If you are experiencing errors because the response isn't processed properly, try lowering the temperature.
+Please keep in mind that this script uses an external API (OpenAI's GPT-3.5) to generate chord progressions. The quality and style of the generated progressions may vary based on the training data and input provided. The temperature of the model is also important to monitor. The higher to 2 the temperature gets, the less consistent formatted responses are given. If you are experiencing errors because the response isn't processed properly, try lowering the temperature.
